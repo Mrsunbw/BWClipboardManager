@@ -1,0 +1,5 @@
+
+#### Android剪贴板工具类
+
+- 1、封装了Android ClipboardManager
+- 2、提供获取、添加、清空、监听剪贴板的方法
